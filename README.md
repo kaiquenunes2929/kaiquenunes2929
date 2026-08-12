@@ -120,6 +120,3 @@ Objetivo:
 
 </div>
 
-🟣 MISSÃO FUTURA
-
-Descobrir qual área profissional combina comigo
