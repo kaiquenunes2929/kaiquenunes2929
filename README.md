@@ -81,29 +81,7 @@ Objetivo:
 
 
 
-🧭 MINHA JORNADA
-              💡 CURIOSIDADE
-                    │
-                    ▼
-          🚀 TECNOLOGIA E INOVAÇÃO
-                    │
-                    ▼
-              📚 CURSO DE TI
-                    │
-                    ▼
-              💻 PRÁTICA
-                    │
-                    ▼
-              🧪 PROJETOS
-                    │
-                    ▼
-             🔎 EXPLORAÇÃO
-                    │
-                    ▼
-              🎯 DESCOBERTA
-                    │
-                    ▼
-             🚀 MEU FUTURO
+
 ```
 
 ---
