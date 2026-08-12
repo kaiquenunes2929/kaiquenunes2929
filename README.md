@@ -81,16 +81,29 @@ Objetivo:
 
 
 
-## 📅 Minha Evolução
-
-```text
-HTML         ████████░░ 80%
-
-CSS          ██████░░░░ 60%
-
-JavaScript   ███░░░░░░░ 30%
-
-Python       ██░░░░░░░░ 20%
+🧭 MINHA JORNADA
+              💡 CURIOSIDADE
+                    │
+                    ▼
+          🚀 TECNOLOGIA E INOVAÇÃO
+                    │
+                    ▼
+              📚 CURSO DE TI
+                    │
+                    ▼
+              💻 PRÁTICA
+                    │
+                    ▼
+              🧪 PROJETOS
+                    │
+                    ▼
+             🔎 EXPLORAÇÃO
+                    │
+                    ▼
+              🎯 DESCOBERTA
+                    │
+                    ▼
+             🚀 MEU FUTURO
 ```
 
 ---
@@ -128,3 +141,7 @@ Python       ██░░░░░░░░ 20%
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+🟣 MISSÃO FUTURA
+
+Descobrir qual área profissional combina comigo
